@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964427587881",
+    "firebase_url": "https://imgtxt-detector.firebaseio.com",
+    "project_id": "imgtxt-detector",
+    "storage_bucket": "imgtxt-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964427587881:android:48a4482d0aaaabf3d39738",
+        "android_client_info": {
+          "package_name": "com.example.imgtxtdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964427587881-lcklph0ftk84nfoduvhp3fgb7jv29vbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwWKlaF5qFrwEKy54hc-Cau_SXbGLWOCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964427587881-lcklph0ftk84nfoduvhp3fgb7jv29vbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
